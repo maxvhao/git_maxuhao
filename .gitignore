@@ -1,0 +1,15 @@
+﻿# 沙箱 ACL 修复工具生成的临时文件
+acl-backup-*.json
+acl-backup-*.json.ps1
+acl-report-*.jsonl
+
+# 操作系统 / 编辑器
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# 日志与临时文件
+*.log
+*.tmp
