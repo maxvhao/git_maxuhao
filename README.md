@@ -15,7 +15,7 @@ git clone https://github.com/maxvhao/git_maxuhao.git
 ## 说明
 
 - 默认分支：`main`
-- 仓库当前仅包含初始化的 README 与 `.gitignore`，可在此基础上继续开发。
+- 仓库当前包含 `README.md`、`.gitignore` 与 `first.txt`，可在此基础上继续开发。
 - 若本机直连 GitHub 不通，可为 git 配置代理：
 
 ```bash
